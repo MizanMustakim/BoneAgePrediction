@@ -8,5 +8,6 @@
 ## **Model Result**
 ![image](https://github.com/MizanMustakim/BoneAgePrediction/assets/56040932/f5c9577e-f172-41dc-aea6-4639c7f912ee)
 
+![bone](https://github.com/MizanMustakim/BoneAgePrediction/assets/56040932/c75df0e8-929e-4bed-b061-e7ee313117cf)
 
 # Detail work with explaination will be coming soon......
